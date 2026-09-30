@@ -14,7 +14,7 @@ body {
   align-items: center;
 }
 button {
-  background-color: aqua;
+  background-color: rgb(33, 80, 80);
   padding: 10px 15px;
   border-radius: 10px;
   border: none;
