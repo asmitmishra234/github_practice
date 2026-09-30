@@ -1,14 +1,21 @@
-*{
-    padding: 0;
-    margin: 0;
-    background-color: black;
+* {
+  padding: 0;
+  margin: 0;
+  background-color: black;
 }
-html,body{
-    height: 100%;
-    width: 100%;
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
-button{
-    background-color: aqua;
-    padding: 10px 15px;
-    
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  background-color: aqua;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
 }
